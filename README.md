@@ -1,5 +1,5 @@
 # **A list of Superb mostly free Apps for your Mac**
-Already written up:
+Already written up on [Medium](https://medium.com/@VeryBestMacApps):
 * [PixelMator Pro](https://www.pixelmator.com/pro/)
 * [The Best Video Player: VLC](https://www.videolan.org/)
 * [Visual Studio Code](https://code.visualstudio.com/)
@@ -12,3 +12,4 @@ Already written up:
 # **TODO**
 ForkLift?
 Clean My Mac?
+WinZip?
