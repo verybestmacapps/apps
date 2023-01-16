@@ -13,3 +13,4 @@ Already written up on [Medium](https://medium.com/@VeryBestMacApps):
 ForkLift?
 Clean My Mac?
 WinZip?
+uBlock Origin?
